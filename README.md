@@ -23,4 +23,9 @@ Dad Joke Generator Chrome Extension using  HTML, CSS, JavaScript, json  with use
   json
 
   Rest API
+  
+  ## Random Jokes API
+  API: https://icanhazdadjoke.com/api
+  
+ Json Link: https://icanhazdadjoke.com/slack
     
